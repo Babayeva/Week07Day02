@@ -1,0 +1,24 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+div{
+	padding-top: 20px;
+	margin-top: 200px;
+	width: 200px;
+	height: 250px;
+	float: left;
+	text-align: center;
+	border: 1px solid gray;
+}
+#care{
+	margin-left: 200px;
+}
+h2{
+	font-size: 25px;
+}
+
+h3{
+	font-size: 18px;
+}
